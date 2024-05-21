@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Verdana;
+    font-size: 40px;
+    font-weight: bold;
+    color: blue;
+}
+
+#emp{
+    background-color: red;
+}
