@@ -16,6 +16,14 @@ h3 {
     color: blue;
 }
 
-#emp{
-    background-color: red;
+#emp {
+    background-color: rgb(255, 0, 212);
+}
+
+.semp {
+    color: red;
+}
+
+#emp.semp {
+    font-weight: bold;
 }
