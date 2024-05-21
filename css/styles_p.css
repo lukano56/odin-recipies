@@ -1,11 +1,43 @@
 h1 {
-    font-family: Verdana, sans-serif;
+    font-family: Verdana;
     color: blue;
     font-size: 60px;
     font-weight: 800;
     text-align: center;
-    }
+}
+
+h2,
+h3 {
+    font-family: Verdana;
+    color: blue;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+img {
+    height: 300;
+    width: 500;
+}
 
 body {
-    font-family: Georgia, serif;
-    }
+    font-family: Arial;
+    font-size: 25px;
+}
+
+.list {
+    color: blueviolet;
+}
+
+.emp {
+    color: red;
+    font-weight: 800;
+}
+
+.pemp {
+    color: purple;
+}
+
+.emp .pemp {
+    background-color: aqua;
+}
